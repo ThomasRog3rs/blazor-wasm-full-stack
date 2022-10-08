@@ -1,0 +1,12 @@
+C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Shared\bin\Debug\net6.0\BlazorBattles.Shared.deps.json
+C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Shared\bin\Debug\net6.0\BlazorBattles.Shared.dll
+C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Shared\bin\Debug\net6.0\BlazorBattles.Shared.pdb
+C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\BlazorBattles.Shared.csproj.AssemblyReference.cache
+C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\BlazorBattles.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\BlazorBattles.Shared.AssemblyInfoInputs.cache
+C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\BlazorBattles.Shared.AssemblyInfo.cs
+C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\BlazorBattles.Shared.csproj.CoreCompileInputs.cache
+C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\BlazorBattles.Shared.dll
+C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\refint\BlazorBattles.Shared.dll
+C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\BlazorBattles.Shared.pdb
+C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Shared\obj\Debug\net6.0\ref\BlazorBattles.Shared.dll
