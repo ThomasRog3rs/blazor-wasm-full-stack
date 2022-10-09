@@ -821,3 +821,4 @@ C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBatt
 C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\refint\BlazorBattles.Client.dll
 C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\BlazorBattles.Client.pdb
 C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\ref\BlazorBattles.Client.dll
+C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\scopedcss\Shared\TopMenu.razor.rz.scp.css

@@ -38,10 +38,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/thomas.rogers/Documents/GitHub/Blazor-WebAssembly-Full-Stack/BlazorBattles/BlazorBattles/Client/Shared/TopMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRvcE1lbnUucmF6b3I=
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/thomas.rogers/Documents/GitHub/Blazor-WebAssembly-Full-Stack/BlazorBattles/BlazorBattles/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
@@ -53,3 +49,7 @@ build_metadata.AdditionalFiles.CssScope = b-l1st1jcckf
 [C:/Users/thomas.rogers/Documents/GitHub/Blazor-WebAssembly-Full-Stack/BlazorBattles/BlazorBattles/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-ln95ya9lal
+
+[C:/Users/thomas.rogers/Documents/GitHub/Blazor-WebAssembly-Full-Stack/BlazorBattles/BlazorBattles/Client/Shared/TopMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFRvcE1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-6svip1a404
