@@ -5,7 +5,7 @@
         public int Bananas { get; set; } = 1000;
 
         public event Action onChange;
-
+        
         public void AddBananas(int amount)
         {
             Bananas += amount;
