@@ -32,14 +32,12 @@
         if (BananaService.Bananas < selectedUnit.Cost)
         {
             needMoreBananas = true;
-            ToastService.ShowError("Not enought Bananas!", "You can't afford this unit");
+            ToastService.ShowError($"Not enought Bananas for {selectedUnit.Title}!", "You can't afford this unit");
             return;
         }
 
         needMoreBananas = false;
         BananaService.EatBananas(selectedUnit.Cost);
         UnitService.AddUnit(selectedUnitId);
-        ToastService.ShowSuccess($"{selectedUnit.Title} has been added to your army", "Unit created!");
-
     }
 }
