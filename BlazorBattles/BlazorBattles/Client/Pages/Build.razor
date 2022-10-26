@@ -23,7 +23,7 @@
     public void BuildUnit()
     {
         var selectedUnit = UnitService.Units.FirstOrDefault(unit => unit.Id == selectedUnitId);
-
+        
         if (selectedUnit == null)
         {
             return;
@@ -39,5 +39,7 @@
         needMoreBananas = false;
         BananaService.EatBananas(selectedUnit.Cost);
         UnitService.AddUnit(selectedUnitId);
+        ToastService.ShowSuccess($"{selectedUnit.Title} has been added to your army", "Unit created!");
+
     }
 }
