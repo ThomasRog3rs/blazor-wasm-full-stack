@@ -11,5 +11,7 @@ builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.
 
 //Custom Services
 builder.Services.AddScoped<IBananaService, BananaService>();
+builder.Services.AddScoped<IUnitService, UnitService>();
+
 
 await builder.Build().RunAsync();
