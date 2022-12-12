@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XrPz3U8EZ6zut0NsTIDIgvqZgNh8VaSwK7ETkSN38sAvFLHb5RCOv3wqcVpTBMVjvLPiJiPdTdfoj3OKEor2lg==",
+  "dgSpecHash": "6SZp3i7CTH26stqN/8ItaSlZ/fDoFbTkD29emYLb4fLFKREY2TFVL37YFCYbEFk08KmGpINyJ6AaWrB2ySZ+eA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\compu\\source\\repos\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj",
+  "projectFilePath": "C:\\Users\\thomas.rogers\\Documents\\GitHub\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

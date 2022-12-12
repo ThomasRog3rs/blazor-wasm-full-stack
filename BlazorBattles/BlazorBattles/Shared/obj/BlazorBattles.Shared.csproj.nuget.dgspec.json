@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\compu\\source\\repos\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj": {}
+    "C:\\Users\\thomas.rogers\\Documents\\GitHub\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj": {}
   },
   "projects": {
-    "C:\\Users\\compu\\source\\repos\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj": {
+    "C:\\Users\\thomas.rogers\\Documents\\GitHub\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\compu\\source\\repos\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj",
+        "projectUniqueName": "C:\\Users\\thomas.rogers\\Documents\\GitHub\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj",
         "projectName": "BlazorBattles.Shared",
-        "projectPath": "C:\\Users\\compu\\source\\repos\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj",
-        "packagesPath": "C:\\Users\\compu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\compu\\source\\repos\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\thomas.rogers\\Documents\\GitHub\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Shared\\BlazorBattles.Shared.csproj",
+        "packagesPath": "C:\\Users\\thomas.rogers\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\thomas.rogers\\Documents\\GitHub\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\compu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\thomas.rogers\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "http://teamcity.promtek.com/httpAuth/app/nuget/v1/FeedService.svc/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/Olx5otgELAqzSdeE66KePkG7sFeWUEpGi4WpgPsaxCTnQLsif5/api": {}
         },
         "frameworks": {
           "net6.0": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
