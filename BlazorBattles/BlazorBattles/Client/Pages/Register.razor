@@ -1,0 +1,75 @@
+﻿@page "/register"
+@inject IUnitService UnitService
+
+<h3>Register</h3>
+
+<EditForm Model="userRegister" OnValidSubmit="HandelRegistration" class="mb-3">
+    <DataAnnotationsValidator></DataAnnotationsValidator>
+
+    <div class="form-group mb-3">
+        <label for="email" class="required">Email</label>
+        <InputText id="email" type="email" @bind-Value="userRegister.Email" class="form-control"></InputText>
+        <ValidationMessage For="(() => userRegister.Email)"></ValidationMessage>
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="userName" class="required">Username</label>
+        <InputText id="userName" @bind-Value="userRegister.Username" class="form-control"></InputText>
+        <ValidationMessage For="(() => userRegister.Username)"></ValidationMessage>
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="password" class="required">Password</label>
+        <InputText id="password" type="password" @bind-Value="userRegister.Password" class="form-control"></InputText>
+        <ValidationMessage For="(() => userRegister.Password)"></ValidationMessage>
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="confirmPassword" class="required">Confirm Password</label>
+        <InputText id="confirmPassword" type="password" @bind-Value="userRegister.ConfirmPassword" class="form-control"></InputText>
+        <ValidationMessage For="(() => userRegister.ConfirmPassword)"></ValidationMessage>
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="bio">Bio</label>
+        <InputTextArea id="bio" @bind-Value="userRegister.Bio" class="form-control"></InputTextArea>
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="startUnits" class="required">Start units</label>
+        <InputSelect id="startUnits" @bind-Value="userRegister.StartUnitId" class="form-control">
+            @foreach (var unit in UnitService.Units)
+            {
+                <option value="@unit.Id">@unit.Title</option>
+            }
+        </InputSelect>
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="bananas" class="required">Starting Bananas</label>
+        <InputNumber id="bananas" @bind-Value="userRegister.Bananas" class="form-control"></InputNumber>
+        <ValidationMessage For="(() => userRegister.Bananas)"></ValidationMessage>
+    </div>
+
+    <div class="form-group mb-3">
+        <label for="dateOfBirth">Date of Birth</label>
+        <InputDate id="dateOfBirth" @bind-Value="userRegister.DateOfBirth" class="form-control"></InputDate>
+    </div>
+
+    <div class="form-check mb-3">
+        <InputCheckbox id="terms" @bind-Value="userRegister.TermsAccepted" class="form-check-input"></InputCheckbox>
+        <label for="terms" class="form-check-label required">Terms &amp; Conditions </label>
+        <ValidationMessage For="(() => userRegister.TermsAccepted)"></ValidationMessage>
+    </div>
+
+    <button type="submit" class="btn btn-primary mb-2">Register</button>
+</EditForm>
+
+@code {
+    UserRegister userRegister = new UserRegister();
+
+    void HandelRegistration()
+    {
+        Console.WriteLine("Store this new user in the database");
+    }
+}

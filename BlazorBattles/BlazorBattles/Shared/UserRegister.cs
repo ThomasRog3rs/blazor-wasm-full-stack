@@ -32,6 +32,6 @@ namespace BlazorBattles.Shared
         public DateTime DateOfBirth { get; set; } = DateTime.Now;
 
         [Range(typeof(bool), "true", "true", ErrorMessage = "Please accept the terms and conditions to play")]
-        public bool TermsAccepted { get; set; } = false;
+        public bool TermsAccepted { get; set; } = true;
     }
 }
