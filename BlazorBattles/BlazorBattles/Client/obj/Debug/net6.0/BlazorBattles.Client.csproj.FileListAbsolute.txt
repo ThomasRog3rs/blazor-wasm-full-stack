@@ -1654,3 +1654,4 @@ C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBa
 C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\BlazorBattles.Client.dll
 C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\ref\BlazorBattles.Client.dll
 C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\BlazorBattles.Client.pdb
+C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\scopedcss\Pages\Register.razor.rz.scp.css
