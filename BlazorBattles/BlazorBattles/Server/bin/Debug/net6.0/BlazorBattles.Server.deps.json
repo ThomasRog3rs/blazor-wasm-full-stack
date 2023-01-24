@@ -55,6 +55,12 @@
         }
       },
       "Microsoft.AspNetCore.Components.Analyzers/6.0.7": {},
+      "Microsoft.AspNetCore.Components.Authorization/5.0.17": {
+        "dependencies": {
+          "Microsoft.AspNetCore.Authorization": "6.0.7",
+          "Microsoft.AspNetCore.Components": "6.0.7"
+        }
+      },
       "Microsoft.AspNetCore.Components.Forms/6.0.7": {
         "dependencies": {
           "Microsoft.AspNetCore.Components": "6.0.7"
@@ -242,6 +248,7 @@
         "dependencies": {
           "BlazorBattles.Shared": "1.0.0",
           "Blazored.Toast": "3.2.2",
+          "Microsoft.AspNetCore.Components.Authorization": "5.0.17",
           "Microsoft.AspNetCore.Components.WebAssembly": "6.0.7"
         },
         "runtime": {
@@ -288,6 +295,13 @@
       "sha512": "sha512-9xNHguX3r0S9f5BIZxtOVe2HlL4xJlRRxHmRGT2RotyiKGwV2jLp6v8+ZR4XtblSC2MCAKQ0NlSo2NvI8Yesyw==",
       "path": "microsoft.aspnetcore.components.analyzers/6.0.7",
       "hashPath": "microsoft.aspnetcore.components.analyzers.6.0.7.nupkg.sha512"
+    },
+    "Microsoft.AspNetCore.Components.Authorization/5.0.17": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-BBf2s9n5zR0gdagzDbTdhbBYUxRQF34o5h/czfh9LHqA+REP1Q+7wSoQrq2uTM2f6dxl4SsTNSYpjZMV/EjnJw==",
+      "path": "microsoft.aspnetcore.components.authorization/5.0.17",
+      "hashPath": "microsoft.aspnetcore.components.authorization.5.0.17.nupkg.sha512"
     },
     "Microsoft.AspNetCore.Components.Forms/6.0.7": {
       "type": "package",

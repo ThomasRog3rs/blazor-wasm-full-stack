@@ -14,7 +14,9 @@ builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.
 //Custom Services
 builder.Services.AddScoped<IBananaService, BananaService>();
 builder.Services.AddScoped<IUnitService, UnitService>();
-builder.Services.AddScoped<AuthenticationStateProvider, CustomAuthProvider>();
+builder.Services.AddScoped<AuthenticationStateProvider, CustomAuthStateProvider>();
+builder.Services.AddOptions();
+builder.Services.AddAuthorizationCore();
 
 //Nuget package services
 builder.Services.AddBlazoredToast();

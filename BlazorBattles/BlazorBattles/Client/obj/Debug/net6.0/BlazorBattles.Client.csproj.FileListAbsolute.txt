@@ -1655,3 +1655,7 @@ C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBa
 C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\ref\BlazorBattles.Client.dll
 C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\BlazorBattles.Client.pdb
 C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\scopedcss\Pages\Register.razor.rz.scp.css
+C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll.gz
+C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\ok+i9A4z.gz

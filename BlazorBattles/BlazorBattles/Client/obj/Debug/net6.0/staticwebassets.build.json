@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "IL6KUaxf5npbAymGgV38Z52S0I3R6xkKjcRjrZlI2j0=",
+  "Hash": "JHzjHmDa3RTJxP4+ijaqWFLeUde+D19bG9X5M2p8qUo=",
   "Source": "BlazorBattles.Client",
   "BasePath": "/",
   "Mode": "Root",
@@ -304,6 +304,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\thomas.rogers\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.7\\lib\\net6.0\\Microsoft.AspNetCore.Authorization.dll"
+    },
+    {
+      "Identity": "C:\\Users\\thomas.rogers\\Documents\\GitHub\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\thomas.rogers\\Documents\\GitHub\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\thomas.rogers\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\5.0.17\\lib\\net5.0\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\thomas.rogers\\Documents\\GitHub\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.dll",
@@ -5846,6 +5863,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\thomas.rogers\\Documents\\GitHub\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.NonGeneric.dll"
+    },
+    {
+      "Identity": "C:\\Users\\thomas.rogers\\Documents\\GitHub\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\ok+i9A4z.gz",
+      "SourceId": "BlazorBattles.Client",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\thomas.rogers\\Documents\\GitHub\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.AspNetCore.Components.Authorization.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\thomas.rogers\\Documents\\GitHub\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\thomas.rogers\\Documents\\GitHub\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.AspNetCore.Components.Authorization.dll"
     },
     {
       "Identity": "C:\\Users\\thomas.rogers\\Documents\\GitHub\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Client\\obj\\Debug\\net6.0\\build-gz\\onBbfZ4X.gz",
