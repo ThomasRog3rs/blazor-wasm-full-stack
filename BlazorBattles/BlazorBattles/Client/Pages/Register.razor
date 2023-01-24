@@ -37,13 +37,14 @@
     </div>
 
     <div class="form-group mb-3">
-        <label for="startUnits" class="required">Start units</label>
-        <InputSelect id="startUnits" @bind-Value="userRegister.StartUnitId" class="form-control">
+        <label for="startUnits" class="required">Start units</label> <br />
+        <InputRadioGroup id="startUnits" @bind-Value="userRegister.StartUnitId" class="form-control">
             @foreach (var unit in UnitService.Units)
             {
-                <option value="@unit.Id">@unit.Title</option>
+                <InputRadio Value="@unit.Id" id="@unit.Id" style="margin-right: 10px" />
+                <label for="@unit.Id" class="mr-4">@unit.Title</label> <br />
             }
-        </InputSelect>
+        </InputRadioGroup>
     </div>
 
     <div class="form-group mb-3">
