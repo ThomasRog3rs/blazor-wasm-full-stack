@@ -1,14 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "fxAHOBHkXXot0biiGQ4e18Z5JmTcY6m4rtdWhi+Gm8h9P8wGd8vpVY8OsMXsZHnCgXTt9DKKCdaGV4bQyFmVNQ==",
+  "dgSpecHash": "rQdhxg6qdxW+dYZtOktA6Lwa9tR9HTCTsh9UNtJ3W/rn60lxBzIZ5UVyVJr7zsA9xQ6gO2VIRrdECG9e7Rhxlw==",
   "success": true,
   "projectFilePath": "C:\\Users\\thomas.rogers\\Documents\\GitHub\\Blazor-WebAssembly-Full-Stack\\BlazorBattles\\BlazorBattles\\Client\\BlazorBattles.Client.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\thomas.rogers\\.nuget\\packages\\blazored.localstorage\\4.3.0\\blazored.localstorage.4.3.0.nupkg.sha512",
     "C:\\Users\\thomas.rogers\\.nuget\\packages\\blazored.toast\\3.2.2\\blazored.toast.3.2.2.nupkg.sha512",
     "C:\\Users\\thomas.rogers\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.7\\microsoft.aspnetcore.authorization.6.0.7.nupkg.sha512",
     "C:\\Users\\thomas.rogers\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.7\\microsoft.aspnetcore.components.6.0.7.nupkg.sha512",
     "C:\\Users\\thomas.rogers\\.nuget\\packages\\microsoft.aspnetcore.components.analyzers\\6.0.7\\microsoft.aspnetcore.components.analyzers.6.0.7.nupkg.sha512",
-    "C:\\Users\\thomas.rogers\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\5.0.17\\microsoft.aspnetcore.components.authorization.5.0.17.nupkg.sha512",
+    "C:\\Users\\thomas.rogers\\.nuget\\packages\\microsoft.aspnetcore.components.authorization\\6.0.0\\microsoft.aspnetcore.components.authorization.6.0.0.nupkg.sha512",
     "C:\\Users\\thomas.rogers\\.nuget\\packages\\microsoft.aspnetcore.components.forms\\6.0.7\\microsoft.aspnetcore.components.forms.6.0.7.nupkg.sha512",
     "C:\\Users\\thomas.rogers\\.nuget\\packages\\microsoft.aspnetcore.components.web\\6.0.7\\microsoft.aspnetcore.components.web.6.0.7.nupkg.sha512",
     "C:\\Users\\thomas.rogers\\.nuget\\packages\\microsoft.aspnetcore.components.webassembly\\6.0.7\\microsoft.aspnetcore.components.webassembly.6.0.7.nupkg.sha512",

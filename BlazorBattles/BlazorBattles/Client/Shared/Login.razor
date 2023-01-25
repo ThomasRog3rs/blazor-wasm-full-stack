@@ -1,9 +1,7 @@
 ﻿@inject ILocalStorageService LocalStorage
 @inject AuthenticationStateProvider AuthenticationStateProvider
-@inject NavigationManager NavigationManager
-@page "/login"
 
-<h3>Login</h3>
+<p>Please login</p>
 
 <EditForm Model="user" OnValidSubmit="HandleLogin">
     <DataAnnotationsValidator></DataAnnotationsValidator>
@@ -26,6 +24,5 @@
     {
         await LocalStorage.SetItemAsync<bool>("isAuthenticated", true);
         await AuthenticationStateProvider.GetAuthenticationStateAsync();
-        NavigationManager.NavigateTo("/");
     }
 }
