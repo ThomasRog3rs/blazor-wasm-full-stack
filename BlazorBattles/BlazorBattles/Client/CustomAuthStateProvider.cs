@@ -14,6 +14,8 @@ namespace BlazorBattles.Client
 
         public override async Task<AuthenticationState> GetAuthenticationStateAsync()
         {
+            AuthenticationState state = new AuthenticationState(new ClaimsPrincipal());
+
             if (await _localStorageService.GetItemAsync<bool>("isAuthenticated"))
             {
                 ClaimsIdentity claimsIdentity = new ClaimsIdentity(new[]{
@@ -21,17 +23,12 @@ namespace BlazorBattles.Client
                 }, "Test Authentication");
 
                 ClaimsPrincipal user = new ClaimsPrincipal(claimsIdentity);
-                AuthenticationState state = new AuthenticationState(user);
-
-                //Tell all the components that the Auth state has changed
-                NotifyAuthenticationStateChanged(Task.FromResult(state));
-                return (state);
+                state = new AuthenticationState(user);
             }
 
-
-
-            //This will result in an unauthorised user because it does not have a claims identity
-            return (new AuthenticationState(new ClaimsPrincipal()));
+            //Tell all the components that the Auth state has changed
+            NotifyAuthenticationStateChanged(Task.FromResult(state));
+            return (state);
         }
     }
 }
