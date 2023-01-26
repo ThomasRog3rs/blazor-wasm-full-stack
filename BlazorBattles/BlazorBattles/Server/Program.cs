@@ -1,6 +1,9 @@
 using Microsoft.AspNetCore.ResponseCompression;
+using Microsoft.EntityFrameworkCore;
+using BlazorBattles.Server.Data;
 
 var builder = WebApplication.CreateBuilder(args);
+
 
 // Add services to the container.
 
@@ -8,6 +11,11 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddRazorPages();
 
 var app = builder.Build();
+
+builder.Services.AddDbContext<DataContext>(options =>
+    options.UseSqlServer(app.Configuration.GetConnectionString("DefaultConnection")));
+
+app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
