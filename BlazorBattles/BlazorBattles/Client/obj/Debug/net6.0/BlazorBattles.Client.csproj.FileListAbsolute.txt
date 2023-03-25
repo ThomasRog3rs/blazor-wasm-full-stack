@@ -1663,3 +1663,12 @@ C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBatt
 C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\refint\BlazorBattles.Client.dll
 C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\BlazorBattles.Client.pdb
 C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\ref\BlazorBattles.Client.dll
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Authorization.dll.gz
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\bin\Debug\net6.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\NGh6MBxJ.gz
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\build-gz\ozDMY3Cc.gz
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Client\obj\Debug\net6.0\scopedcss\Pages\Register.razor.rz.scp.css

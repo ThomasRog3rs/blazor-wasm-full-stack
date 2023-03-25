@@ -12,10 +12,10 @@ builder.Services.AddRazorPages();
 
 var app = builder.Build();
 
-builder.Services.AddDbContext<DataContext>(options =>
-    options.UseSqlServer(app.Configuration.GetConnectionString("DefaultConnection")));
+//builder.Services.AddDbContext<DataContext>(options =>
+//    options.UseSqlServer(app.Configuration.GetConnectionString("DefaultConnection")));
 
-app = builder.Build();
+//app = builder.Build();
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

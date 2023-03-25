@@ -95,3 +95,13 @@ C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBatt
 C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\BlazorBattles.Server.pdb
 C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\BlazorBattles.Server.genruntimeconfig.cache
 C:\Users\thomas.rogers\Documents\GitHub\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\ref\BlazorBattles.Server.dll
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Blazored.LocalStorage.dll
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
