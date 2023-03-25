@@ -12,7 +12,6 @@ C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBa
 C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\BlazorBattles.Server.deps.json
 C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\BlazorBattles.Server.runtimeconfig.json
 C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\BlazorBattles.Server.dll
-C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\ref\BlazorBattles.Server.dll
 C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\BlazorBattles.Server.pdb
 C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Blazored.Toast.dll
 C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Microsoft.AspNetCore.Authorization.dll
@@ -105,3 +104,9 @@ C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBa
 C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
 C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
 C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\staticwebassets\msbuild.BlazorBattles.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\staticwebassets\msbuild.build.BlazorBattles.Server.props
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BlazorBattles.Server.props
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BlazorBattles.Server.props
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\compu\source\repos\Blazor-WebAssembly-Full-Stack\BlazorBattles\BlazorBattles\Server\obj\Debug\net6.0\refint\BlazorBattles.Server.dll
